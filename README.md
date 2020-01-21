@@ -5,4 +5,4 @@ For Android development, see the branch: *[android](https://github.com/chiefJota
 
 For development of the Twitter cloud functions, see the branch: *[twitter](https://github.com/chiefJota/Star-Wars-ML/tree/twitter)*.
 
-For development of the machine learning cloud functions, see the branch: *[ml](https://github.com/chiefJota/Star-Wars-ML/tree/ml)*.
+For development of the machine learning cloud functions, see the branch: *[ml](https://github.com/chiefJota/Star-Wars-ML/tree/ML)*.

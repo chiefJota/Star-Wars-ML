@@ -1,7 +1,8 @@
 # Star Wars ML
-This branch contains all work for the machine learning functionality of the *Star Wars ML* app.
-The directory *ipythonNotebooks* contains source work that was the foundation for the deployed Python ML functions. 
+*Star Wars ML* is an Android application aimed at letting you find out which side of the Force your friends are truly on...
 
-The directory *pythonMlWork* contains the initial ports from iPython notebooks to actual Python scripts.
+For Android development, see the branch: *[android](https://github.com/CamWeston/Star_Wars_ML/tree/android)*.
 
-Finally, *cloudSource* contains the actual package deployed onto Google Cloud Platform (GCP) for use within the Java app. In this directory, *requirements.txt* defines the Python libraries that GCP must install in order to use the ML functionality, *sw_model_train_data.csv* is the training data used to construct the ML model in Python, and *main.py* contains the Python script that the Android client accesses. It takes in a set of Tweets to analyze and map to a Star Wars character, then returns a String: the name of the predicted Star Wars character.
+For development of the Twitter cloud functions, see the branch: *[twitter](https://github.com/CamWeston/Star_Wars_ML/tree/twitter)*.
+
+For development of the machine learning cloud functions, see the branch: *[ml](https://github.com/CamWeston/Star_Wars_ML/tree/ml)*.

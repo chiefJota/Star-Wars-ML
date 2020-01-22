@@ -1,9 +1,22 @@
 # Star Wars ML
 *Star Wars ML* is an Android application aimed at letting you find out which side of the Force your friends are truly on...
 
-![splashscreen](https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/splashscreen.png)![searchscreen](https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/searchscreen.png)
+<p align="left">
+  <img width="600" height="200" src="https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/splashscreen.png">
+</p>
 
-![transitionscreen](https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/transitionscreen.png)[resultsscreen](https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/resultsscreen.png)
+<p align="right">
+  <img width="600" height="200" src="https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/searchscreen.png">
+</p>
+
+<p align="left">
+  <img width="600" height="200" src="https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/transitionscreen.png">
+</p>
+
+<p align="right">
+  <img width="600" height="200" src="https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/resultsscreen.png">
+</p>
+
 
 For Android development, see the branch: *[android](https://github.com/chiefJota/Star-Wars-ML/tree/android)*.
 

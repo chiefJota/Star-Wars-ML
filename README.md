@@ -3,21 +3,10 @@
 
 <p align="left">
   <img width="384" height="768" src="https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/splashscreen.png">
-<p align="right">
   <img width="384" height="768" src="https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/searchscreen.png">
-</p>
-</p>
-
-
-
-<p align="left">
   <img width="384" height="768" src="https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/transitionscreen.png">
-</p>
-
-<p align="right">
   <img width="384" height="768" src="https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/resultsscreen.png">
 </p>
-
 
 For Android development, see the branch: *[android](https://github.com/chiefJota/Star-Wars-ML/tree/android)*.
 

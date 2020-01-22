@@ -3,11 +3,12 @@
 
 <p align="left">
   <img width="384" height="768" src="https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/splashscreen.png">
-</p>
-
 <p align="right">
   <img width="384" height="768" src="https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/searchscreen.png">
 </p>
+</p>
+
+
 
 <p align="left">
   <img width="384" height="768" src="https://github.com/chiefJota/Star-Wars-ML/blob/android/Activity%20images/transitionscreen.png">
